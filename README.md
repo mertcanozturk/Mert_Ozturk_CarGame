@@ -12,17 +12,21 @@ different target.
 driven cars reset to their own entrance, and when the player starts driving the new car,
 all previously driven cars start as well and previously driven cars follow the path that
 they took in their turns. Example;
+
 ![Gameplay](https://github.com/mertcanozturk/Mert_Ozturk_CarGame/blob/master/images/car_game.gif)
 
 Controls
 
 ![controls](https://github.com/mertcanozturk/Mert_Ozturk_CarGame/blob/master/images/controls.png)
+
 ● Control scheme should be like this
 ● There is a turn right and turn the left button
 ● There is no brake button. The car always presses the gas pedal automatically.
 
 Creating levels
+
 ![Creator Scene](https://github.com/mertcanozturk/Mert_Ozturk_CarGame/blob/master/images/creator_scene.png)
+
 ● New levels can be created with the scene named "Creator" without writing code. After open the scene just click LevelCreator object and use Create Level button.
 ● You can change the positions of the entrance and target. 
 ● You can drag the obstacle objects on scene from the Resources folder. Also you can change its position and rotation
