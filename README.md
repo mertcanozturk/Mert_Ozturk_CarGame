@@ -15,6 +15,7 @@ they took in their turns. Example;
 ![Gameplay](https://github.com/mertcanozturk/Mert_Ozturk_CarGame/blob/master/images/car_game.gif)
 
 Controls
+
 ![controls](https://github.com/mertcanozturk/Mert_Ozturk_CarGame/blob/master/images/controls.png)
 ● Control scheme should be like this
 ● There is a turn right and turn the left button
